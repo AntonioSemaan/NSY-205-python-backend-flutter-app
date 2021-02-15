@@ -48,4 +48,4 @@ def setTables():
 
 if __name__ == "__main__":
 
-    app.run(host='192.168.16.9')
+    app.run(host='0.0.0.0')
